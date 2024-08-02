@@ -1,4 +1,4 @@
-#!/bin/bash #interprete de bash
+#!/bin/bash 
 
 
 
